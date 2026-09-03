@@ -1,3 +1,8 @@
-/*
-Acá van a ir los estilos
-*/
+.card-destiny {
+  background-image: url('/css/img/background-card.gif');
+  background-size: cover;
+}
+
+.card-body-destiny {
+  height: 250px;
+}
