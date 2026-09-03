@@ -9,7 +9,7 @@ A partir del mockup adjunto, el estudiante deberá construir la maquetación web
 
 
 ## Tecnologías Obligatorias
-**HTML5**: Uso de estructura semántica (<header>, <nav>, <main>, <section>, <footer>), formularios y correcta jerarquía de encabezados.
+**HTML5**: Uso de estructura semántica, formularios y correcta jerarquía de encabezados.
 **CSS3**: Estilos personalizados para ajustar tipografías, colores, espaciados y reglas específicas no contempladas por el framework.
 **Bootstrap 5**: Empleo del sistema de grillas (Grid Layout), barra de navegación (Navbar responsive), tarjetas (Cards), botones, formularios e íconos (Bootstrap Icons o FontAwesome).
 
