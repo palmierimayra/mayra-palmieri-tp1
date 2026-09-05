@@ -16,3 +16,17 @@
   max-width: 100%;
   height: auto;
 }
+
+.btn-primary {
+  background-color: goldenrod !important;
+  border-color: goldenrod !important;
+  font-weight: bolder;
+}
+
+.text-light {
+  color: goldenrod !important;
+}
+
+.border-light {
+  border-color: goldenrod !important;
+}
