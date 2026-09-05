@@ -20,7 +20,7 @@
 .btn-primary {
   background-color: goldenrod !important;
   border-color: goldenrod !important;
-  font-weight: bolder;
+  color:black;
 }
 
 .text-light, .text-body-secondary {
@@ -29,4 +29,25 @@
 
 .border-light, .border-secondary {
   border-color: goldenrod !important;
+}
+
+.btn-outline-success {
+  border-color: goldenrod !important;
+  color: goldenrod !important;
+}
+
+.btn-outline-success:hover {
+  background-color: goldenrod !important;
+  color: black !important;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+#inicio,
+#sobreDestiny,
+#suscribir,
+#comprar {
+  scroll-margin-top: 80px;
 }
