@@ -23,10 +23,10 @@
   font-weight: bolder;
 }
 
-.text-light {
+.text-light, .text-body-secondary {
   color: goldenrod !important;
 }
 
-.border-light {
+.border-light, .border-secondary {
   border-color: goldenrod !important;
 }
